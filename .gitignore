@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+HospitalDatabase.xlsx/
 develop-eggs/
 dist/
 downloads/
