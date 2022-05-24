@@ -9,16 +9,22 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
-HospitalDatabase.xlsx/
+HospitalDatabase.xlsx
 Pandas-Data-Science-Tasks/
 develop-eggs/
 Sales_Data/
-aks_notebook.ipynb/
-all_data.csv/
-Numpy Day#1.ipynb/
-marketing.csv/
-Q31-40(pyhackathon).ipynb/
-
+aks_notebook.ipynb
+all_data.csv
+Numpy Day#1.ipynb
+marketing.csv
+Q31-40(pyhackathon).ipynb
+Additional Question(Python).ipynb
+Aks_additional_questions.ipynb
+aks_notebook-updated.ipynb
+Hackathon-Additional-neha.ipynb
+Hackathon-Extra-neha.ipynb
+Python Basics-2.ipynb
+PythonHackathon-neha.ipynb
 dist/
 downloads/
 eggs/
